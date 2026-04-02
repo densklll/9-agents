@@ -1,6 +1,6 @@
 ---
 name: web-researcher
-model: default
+model: inherit
 description: Web research specialist who searches the internet for documentation, best practices, libraries, and external API references. Use when you need to find how something works online, what the best current solution is, what an external API does, or what tools exist for a specific problem.
 ---
 

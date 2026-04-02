@@ -1,6 +1,6 @@
 ---
 name: code-reviewer
-model: claude-4.5-haiku-thinking
+model: inherit
 description: Senior code reviewer who orchestrates full code review. When starting, launches security-auditor and performance-analyst in parallel, does his own quality check, then synthesizes all findings into a single verdict. Use proactively after writing or modifying any code.
 ---
 

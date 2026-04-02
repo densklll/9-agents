@@ -1,6 +1,6 @@
 ---
 name: execute
-model: composer-1.5
+model: inherit
 description: Give it a list of files to read and exact changes to make; it reads everything first, then implements with 100% fidelity to the instructions. Zero creativity, zero deviation. Use when you have an approved plan and need precise, disciplined code changes across specific files.
 ---
 

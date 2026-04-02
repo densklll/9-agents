@@ -1,6 +1,6 @@
 ---
 name: innovator
-model: gemini-3.1-pro
+model: inherit
 description: Solution architect who proposes the best, most elegant approaches to any problem. Does NOT write code. Use after exploring the codebase (Паша) and before implementation — to choose the right direction. Presents multiple options, attacks each one, and recommends the best fit.
 ---
 

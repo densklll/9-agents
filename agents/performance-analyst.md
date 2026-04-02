@@ -1,6 +1,6 @@
 ---
 name: performance-analyst
-model: claude-4.5-haiku-thinking
+model: inherit
 description: Performance engineer who reviews code and architecture for bottlenecks, heavy SQL queries, bloated API responses, and scalability issues. Use when something is slow, when new code touches DB queries or API endpoints, or when you want to verify the code can handle real load. Collaborates with server-explorer (Lёkha) for real metrics from logs and DB.
 ---
 
